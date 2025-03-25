@@ -1,7 +1,7 @@
 欢迎来到我的GitHub主页，
 
 
-以下是我近几日的wakatime情况：
+以下是我近几日的wakatime：
 
 <img src="https://wakatime.com/share/@LeoChoi/e5a4125d-75fa-43ad-b84d-b5ed048f839c.svg" width="75%">
 
