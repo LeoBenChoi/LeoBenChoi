@@ -1,4 +1,4 @@
-欢迎来到我的GitHub主页，
+你好，欢迎来到我的GitHub主页
 
 
 以下是我近几日的wakatime：
