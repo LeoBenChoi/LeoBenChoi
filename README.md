@@ -1,6 +1,6 @@
-你好，欢迎来到我的GitHub主页
+#你好，欢迎来到我的GitHub主页，以下是我的个人简介
 
-个人技能  
+###个人技能:  
 编程语言：Python，C，Java，HTML+CSS+JavaScript(原生)  
 运维技能：Docker，Linux  
 
