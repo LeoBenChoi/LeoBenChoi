@@ -4,4 +4,6 @@
 🌱 Learning [Technologies You’re Learning]  
 🔗 [Your Personal Website](https://yourwebsite.com)
 
+![WakaTime Stats](https://wakatime.com/share/@LeoChoi/e5a4125d-75fa-43ad-b84d-b5ed048f839c.svg)
+
 <figure><embed src="https://wakatime.com/share/@LeoChoi/e5a4125d-75fa-43ad-b84d-b5ed048f839c.svg"></embed></figure>
