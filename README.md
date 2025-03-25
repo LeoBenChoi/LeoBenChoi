@@ -1,4 +1,4 @@
-# 你好，欢迎来到我的GitHub主页，以下是我的个人简介
+你好，欢迎来到我的GitHub主页，以下是我的个人简历:
 
 ### 个人技能:  
 编程语言：Python，C，Java，HTML+CSS+JavaScript(原生)  
