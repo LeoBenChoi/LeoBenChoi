@@ -1,7 +1,7 @@
 你好，欢迎来到我的GitHub主页，以下是我的一些个人信息:
 
 ### 个人技能:  
-编程语言：Python，C，Java，HTML+CSS+JavaScript(原生)，Golang， VIML  
+编程语言：Python，C，Java，HTML+CSS+JavaScript，Golang， VIML  
 运维技能：Docker，Linux  
 
 以下是我近几日的wakatime（可以点击放大查看）：  
