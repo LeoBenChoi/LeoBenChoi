@@ -1,9 +1,5 @@
 你好，欢迎来到我的GitHub主页，以下是我的一些个人信息:
 
-### 教育经历：  
-24年本科毕业，计算机科学与技术专业  
-22年专科毕业，计算机网络专业
-
 ### 个人技能:  
 编程语言：Python，C，Java，HTML+CSS+JavaScript(原生)，Golang， VIML  
 运维技能：Docker，Linux  
