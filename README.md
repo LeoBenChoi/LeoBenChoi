@@ -2,7 +2,7 @@
 
 ### 个人技能：
 编程语言：Python，C，Java，HTML+CSS+JavaScript，Golang， VIML  
-虚拟化：Docker 
+虚拟化：Docker  
 数据库：Mysql（MariaDB）
 
 以下是我一年内的wakatime(可以点击放大查看)：  
