@@ -7,4 +7,4 @@
 数据库：Mysql（MariaDB）
 
 ### wakatime：  
-<img src="https://wakatime.com/share/@LeoChoi/ac6b47fe-05cf-4419-bf7a-bd271ef779a5.svg" width="65%">
+<img src="https://wakatime.com/share/@LeoChoi/ac6b47fe-05cf-4419-bf7a-bd271ef779a5.svg" width="70%">
