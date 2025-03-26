@@ -2,6 +2,7 @@
 以下是我的个人简介
 
 ### 个人技能：
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 编程语言：Python，C，Java，HTML+CSS+JavaScript，Golang， VIML  
 虚拟化：Docker  
 数据库：Mysql（MariaDB）
