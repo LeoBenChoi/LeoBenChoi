@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub.;Hello%EF%BC%8CWelcome+to+My+Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub.;Welcome+to+My+Github.)](https://git.io/typing-svg)
 
 ### 个人技能：
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
-编程语言：Python，C，Java，HTML+CSS+JavaScript，Golang， VIML  
+
+编程语言：[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  
+
+
 虚拟化：Docker  
 数据库：Mysql（MariaDB）
 
