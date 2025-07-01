@@ -1,6 +1,6 @@
 # hello
 
-👋 Hi, welcome to there.
+👋 hello, welcome to there.
 
 ## used language，but this is not all.
 
