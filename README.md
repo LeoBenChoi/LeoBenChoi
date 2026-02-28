@@ -26,5 +26,5 @@
 ---
 
 ### 📬 联系我
-- **Email**: [你的邮箱]
-- **Blog**: [你的博客链接]
+- **Email**: [2451535770@qq.com]
+- **Blog**: [https://www.leobenchoi.com]
