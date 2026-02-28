@@ -7,7 +7,7 @@
 ### 📂 Profile
 - **Focus**: `Backend Development (Golang)`
 - **Tech Stack**: Go, Python, Java, C, Shell
-- **Environments**: Arch Linux, Kali, Ubuntu
+- **Environments**: Kali, win11
 - **Tools**: Vim / Docker / Git
 
 ---
