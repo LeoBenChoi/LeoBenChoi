@@ -28,3 +28,5 @@
 ### 📬 联系我
 - **Email**: [2451535770@qq.com]
 - **Blog**: [https://www.leobenchoi.com]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoBenChoi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
