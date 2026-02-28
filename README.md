@@ -1,33 +1,27 @@
-# 🚀 Hi, I'm [你的名字]
+# LeoBenChoi
 
-### 👨‍💻 关于我
-- 🛠 专注于后端开发，主力语言是 **Go** 和 **Python**。
-- ⚡ 偶尔也会深入 **C** 和 **Java** 的世界。
-- ⌨️ 坚定的 **Vim** 用户（`:wq` 是我的肌肉记忆）。
-- 🔭 目前正在研究 [项目名称或方向]。
+> 桌面运维 | Golang 后端学习中
 
 ---
 
-### 🛠 技术栈
-[![My Skills](https://skillicons.dev/icons?i=go,py,c,java,vim,mysql,docker,linux,git)](https://skillicons.dev)
+### 📂 Profile
+- **Focus**: `Backend Development (Golang)`
+- **Tech Stack**: Go, Python, Java, C, Shell
+- **Environments**: Arch Linux, Kali, Ubuntu
+- **Tools**: Vim / Docker / Git
 
 ---
 
-### 📊 GitHub 统计
-| 整体概览 | 语言偏好 |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide=html,css) |
+### 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,c,vim,docker,linux,kali,ubuntu,arch,mysql,redis,git)](https://skillicons.dev)
 
 ---
 
-### 🎞 贡献记录
-![snake gif](https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg)
+### 📊 Metrics
+![Stats](./profile/stats.svg) ![Langs](./profile/langs.svg)
 
 ---
 
-### 📬 联系我
-- **Email**: [2451535770@qq.com]
-- **Blog**: [https://www.leobenchoi.com]
-
-![Stats](./profile/stats.svg)
-![Langs](./profile/langs.svg)
+### 🔗 Contact
+- **Blog**: [leobenchoi.com](https://leobenchoi.com)
+- **Email**: 2451535770@qq.com
