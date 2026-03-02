@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="160.05"
+          width="162.77"
           height="8"
           fill="#199f4b"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="160.05"
+          x="162.77"
           y="0"
-          width="74.99"
+          width="72.72"
           height="8"
           fill="#3572A5"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.04000000000002"
+          x="235.49"
           y="0"
-          width="14.88"
+          width="14.43"
           height="8"
           fill="#000080"
         />
@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="249.92000000000002"
           y="0"
-          width="10.09"
+          width="10.08"
           height="8"
           fill="#C1F12E"
         />
@@ -171,21 +171,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#199f4b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vim Script 64.02%
+        Vim Script 65.11%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 30.00%
+        Python 29.09%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 5.95%
+        Lua 5.77%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
