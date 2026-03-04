@@ -2,8 +2,8 @@ name: Generate GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天 UTC 0点自动更新
-  workflow_dispatch:     # 允许手动触发
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-stats:
@@ -17,7 +17,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # 针对你的技术栈定制参数
           options: username=LeoBenChoi&show_icons=true&theme=tokyonight&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -26,8 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          # 过滤掉杂鱼语言，突出 Go/Python/C/Java
-          options: username=LeoBenChoi&layout=compact&theme=tokyonight&hide=html,css,javascript
+          options: username=LeoBenChoi&layout=compact&theme=tokyonight
           path: profile/langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
