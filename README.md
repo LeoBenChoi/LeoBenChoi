@@ -18,5 +18,5 @@
 ---
 
 ### 🔗 Contact
-- **Blog**: [leobenchoi.com](https://www.leobenchoi.com)
+- **Blog**: [www.leobenchoi.com](https://www.leobenchoi.com)
 - **Email**: 2451535770@qq.com
