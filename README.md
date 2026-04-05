@@ -1,6 +1,6 @@
 # LeoBenChoi | 御衡
 
-> 桌面运维 | Golang 后端学习中 | Vimer | 安全爱好者
+> 桌面运维 | Golang 后端学习中 | Vimer | 安全爱好者（并非）
 
 ---
 
