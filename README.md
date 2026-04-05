@@ -17,11 +17,6 @@
 
 ---
 
-### 📊 Metrics
-![Stats](./profile/stats.svg) ![Langs](./profile/langs.svg)
-
----
-
 ### 🔗 Contact
-- **Blog**: [leobenchoi.com](https://leobenchoi.com)
+- **Blog**: [leobenchoi.com](https://www.leobenchoi.com)
 - **Email**: 2451535770@qq.com
