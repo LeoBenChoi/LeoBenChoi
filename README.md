@@ -1,4 +1,4 @@
-# LeoBenChoi | 御衡
+# Leo | 御衡
 
 ---
 
